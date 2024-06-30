@@ -1,0 +1,9 @@
+{
+  "name": "js-algos",
+  "version": "1.0.0",
+  "description": "some Algo tasks",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Mr.Takka-T",
+  "license": "ISC"
+}

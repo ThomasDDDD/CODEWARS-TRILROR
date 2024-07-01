@@ -17,3 +17,12 @@ Sortiere alle Charactere aus die NICHT doppelt vorkommen
     -Example:
         -input: "abccdefee"
         -output: "cceee"
+
+## Aufgabe3: 03_sortToTwo.js
+
+Die Funktion bekommt einen string zugewiesen. dieser soll zerlegt werden in paare aus zwei Buchstaben und wenn einer übrig bleibt bekommt dieser einen Unterstrich dazu.
+
+        Beispiel:
+
+        - 'abc' =>  ['ab', 'c_']
+        - 'abcdef' => ['ab', 'cd', 'ef']

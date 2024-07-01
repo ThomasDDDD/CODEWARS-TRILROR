@@ -1,6 +1,6 @@
 console.clear();
 
-let inNum = 99999699999;
+let inNum = 862898;
 
 function oneDigit(n) {
   n = String(n);
